@@ -1,0 +1,30 @@
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\bin\Debug\DataMahasiswa2.exe.config
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\bin\Debug\DataMahasiswa2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\bin\Debug\DataMahasiswa2.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\obj\Debug\Data Mahasiswa 2.csprojAssemblyReference.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\obj\Debug\DataMahasiswa2.Form1.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\obj\Debug\DataMahasiswa2.Properties.Resources.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\obj\Debug\Data Mahasiswa 2.csproj.GenerateResource.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\obj\Debug\Data Mahasiswa 2.csproj.CoreCompileInputs.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\obj\Debug\DataMahasiswa2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\DataMahasiswa2\obj\Debug\DataMahasiswa2.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\bin\Debug\DataMahasiswa2.exe.config
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\bin\Debug\DataMahasiswa2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\bin\Debug\DataMahasiswa2.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\obj\Debug\Data Mahasiswa 2.csprojAssemblyReference.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\obj\Debug\DataMahasiswa2.Form1.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\obj\Debug\DataMahasiswa2.Properties.Resources.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\obj\Debug\Data Mahasiswa 2.csproj.GenerateResource.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\obj\Debug\Data Mahasiswa 2.csproj.CoreCompileInputs.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\obj\Debug\DataMahasiswa2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 3\obj\Debug\DataMahasiswa2.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\bin\Debug\DataMahasiswa2.exe.config
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\bin\Debug\DataMahasiswa2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\bin\Debug\DataMahasiswa2.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\obj\Debug\Data Mahasiswa 2.csprojAssemblyReference.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\obj\Debug\DataMahasiswa2.Form1.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\obj\Debug\DataMahasiswa2.Properties.Resources.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\obj\Debug\Data Mahasiswa 2.csproj.GenerateResource.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\obj\Debug\Data Mahasiswa 2.csproj.CoreCompileInputs.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\obj\Debug\DataMahasiswa2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data Mahasiswa 2\obj\Debug\DataMahasiswa2.pdb

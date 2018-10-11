@@ -1,0 +1,10 @@
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\bin\Debug\Data List Mahasiswa.exe.config
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\bin\Debug\Data List Mahasiswa.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\bin\Debug\Data List Mahasiswa.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\obj\Debug\Data_List_Mahasiswa.Form1.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\obj\Debug\Data_List_Mahasiswa.Properties.Resources.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\obj\Debug\Data List Mahasiswa.csproj.GenerateResource.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\obj\Debug\Data List Mahasiswa.csproj.CoreCompileInputs.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\obj\Debug\Data List Mahasiswa.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\obj\Debug\Data List Mahasiswa.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 3\Data List Mahasiswa\obj\Debug\Data List Mahasiswa.csprojAssemblyReference.cache

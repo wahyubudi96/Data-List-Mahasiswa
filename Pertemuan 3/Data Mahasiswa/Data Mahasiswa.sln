@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Mahasiswa", "Data Mahasiswa\Data Mahasiswa.csproj", "{972BC33D-0F88-492A-A1CA-A55D9892348B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data List Mahasiswa", "..\Data List Mahasiswa\Data List Mahasiswa.csproj", "{12349EC3-F901-438F-8C95-B5A36EFF2600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Mahasiswa 2", "..\Data Mahasiswa 2\Data Mahasiswa 2.csproj", "{94F1B339-18BD-4CE0-8E30-2EBFF8AF6258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972BC33D-0F88-492A-A1CA-A55D9892348B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972BC33D-0F88-492A-A1CA-A55D9892348B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972BC33D-0F88-492A-A1CA-A55D9892348B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12349EC3-F901-438F-8C95-B5A36EFF2600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12349EC3-F901-438F-8C95-B5A36EFF2600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12349EC3-F901-438F-8C95-B5A36EFF2600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12349EC3-F901-438F-8C95-B5A36EFF2600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F1B339-18BD-4CE0-8E30-2EBFF8AF6258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F1B339-18BD-4CE0-8E30-2EBFF8AF6258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F1B339-18BD-4CE0-8E30-2EBFF8AF6258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F1B339-18BD-4CE0-8E30-2EBFF8AF6258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40686BED-84E3-4C20-A116-38073FD612C9}
+	EndGlobalSection
+EndGlobal
